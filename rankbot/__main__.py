@@ -4,7 +4,7 @@ from pyrogram import idle
 from rankbot import rankbot
 from rankbot.modules import ALL_MODULES
 
-LOGGER_ID = -1001919135283
+LOGGER_ID = -1002100433415
 
 loop = asyncio.get_event_loop()
 
