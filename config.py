@@ -8,14 +8,14 @@ API_ID = int(os.environ.get("API_ID", "27884171"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH", "abe760b5d6b33e15c676577d6ae4a06a")
 # ----------------D--------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8115443607:AAEHh_mT-CMeP7m2xTCMhAOwkUMf_BJF7Hc")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7602217958:AAGwcM9BiZ7nLgYzGAIeYMwoaagGP-aMC-4")
 # -----------------A-------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "STRANGER_RANKBOT")
 # ------------------X------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7447102240"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7877197608"))
 # ------------------X------------------------------
 # ------------------------------------------------
-LOGGER_ID = int(os.environ.get("LOGGER_ID", "-1002100433415"))
+LOGGER_ID = int(os.environ.get("LOGGER_ID", "-1002148651992"))
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://SANKIXD:SANKIXD@cluster0.dgogcjs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # ------------------------------------------------
