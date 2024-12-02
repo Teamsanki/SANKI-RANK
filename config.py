@@ -15,7 +15,7 @@ BOT_USERNAME = os.environ.get("BOT_USERNAME", "OFFICIALSANKIRANKBOT")
 OWNER_ID = int(os.environ.get("OWNER_ID", "7877197608"))
 # ------------------X------------------------------
 # ------------------------------------------------
-LOGGER_ID = int(os.environ.get("LOGGER_ID", "-1002148651992"))
+LOGGER_ID = int(os.environ.get("LOGGER_ID", "-1002100433415"))
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://SANKIXD:SANKIXD@cluster0.dgogcjs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # ------------------------------------------------
