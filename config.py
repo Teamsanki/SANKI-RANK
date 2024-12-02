@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH", "abe760b5d6b33e15c676577d6ae4a06a")
 # ----------------D--------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7602217958:AAGwcM9BiZ7nLgYzGAIeYMwoaagGP-aMC-4")
 # -----------------A-------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "STRANGER_RANKBOT")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "OFFICIALSANKIRANKBOT")
 # ------------------X------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7877197608"))
 # ------------------X------------------------------
