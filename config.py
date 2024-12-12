@@ -12,7 +12,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "7602217958:AAGwcM9BiZ7nLgYzGAIeYMwoaagG
 # -----------------A-------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "OFFICIALSANKIRANKBOT")
 # ------------------X------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7877197608, 7417222991"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7417222991"))
 # ------------------X------------------------------
 # ------------------------------------------------
 LOGGER_ID = int(os.environ.get("LOGGER_ID", "-1002100433415"))
